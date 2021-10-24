@@ -36,6 +36,5 @@
         port2.show();
         port1.jisuan(port2);
 ```
-## 运行截图
-
-![](D:\Java\Homework1018\img.jpg)
+## 运行截图 
+![avatar](https://github.com/Minomeis/Java-Homework1018/blob/master/img.jpg)
